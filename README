@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3571
+
+Dogmatic is a Vim plugin that disables the arrow keys and lets you know how
+often you try to use them.
+
+I don't recommend Dogmatic for new Vim users, but once you are ready to
+fully embrace Vim you should find this plugin to be helpful in leveling up
+your muscle memory of Vim's movement mappings.
+
+Dogmatic does not prevent you from using the arrow keys on the cmdline.
+
+To get the latest development version or to contribute additional Vim dogma visit https://github.com/mrmargolis/dogmatic.vim
+
+
+
